@@ -25,4 +25,13 @@ Saya saat ini menjabat sebagai Ketua Dewan Eksekutif Pertama di [Hima Tekkom UPI
 
 ---
 
+**Trophy 🏆:**<br>
+<p align="center">
+  <a href="https://github.com/Salmansha08">
+    <img width="75%" alt="Salman's Trophy" src="https://github-profile-trophy.vercel.app/?username=Salmansha08&theme=nord&no-bg=true&margin-h=10&column=4&rank=SSS,SS,S,AAA,AA,A,B,SECRET"/>
+  </a>
+</p>
+
+---
+
 Thanks to [AnggaR96s](https://github.com/AnggaR96s)
