@@ -2,7 +2,7 @@
 
 Saya **Mahasiswa Semester 3 Teknik Komputer** di [Universitas Pendidikan Indonesia Kampus Cibiru](http://tekom.kd-cibiru.upi.edu).
 
-Saya saat ini menjabat sebagai Ketua Dewan Eksekutif Pertama di [Hima Tekkom UPI KampusCibiru](https://www.instagram.com/hima.tekkom).
+Saya saat ini menjabat sebagai Ketua Dewan Eksekutif Pertama di [Hima Tekkom UPI Kampus Cibiru](https://www.instagram.com/hima.tekkom).
 
 ---
 
