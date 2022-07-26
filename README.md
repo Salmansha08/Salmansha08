@@ -1,6 +1,6 @@
 # Hi, I'am Salman form Indonesia!
 
-Saya **Mahasiswa Semester 4 Teknik Komputer** di [Universitas Pendidikan Indonesia Kampus Cibiru](http://tekom.kd-cibiru.upi.edu).
+Saya **Mahasiswa Semester 5 Teknik Komputer** di [Universitas Pendidikan Indonesia Kampus Cibiru](http://tekom.kd-cibiru.upi.edu).
 
 Saya Ketua Dewan Eksekutif Pertama di [Hima Tekkom UPI Kampus Cibiru](https://www.instagram.com/hima.tekkom).
 
