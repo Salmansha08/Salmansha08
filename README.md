@@ -1,19 +1,19 @@
-# Hi, I'am Salman form Indonesia!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+There!;I'am+Salman+from+Indonesia+👋)](https://git.io/typing-svg)
 
 Saya **Mahasiswa Semester 5 Teknik Komputer** di [Universitas Pendidikan Indonesia Kampus Cibiru](http://tekom.kd-cibiru.upi.edu).
 
 Saya Ketua Dewan Eksekutif Pertama di [Hima Tekkom UPI Kampus Cibiru](https://www.instagram.com/hima.tekkom).
 
 ---
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Salmansha08)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/salman-wiharja-a0b7b220a)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/salman.sha08)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:salmanwiharja8@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/Salmansha08)
+[![Outlook Badge](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:salmanwiharja8@outlook.com)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://google.com)
 
-<p align="center">
-<a href="https://github.com/Salmansha08"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/salman-wiharja-a0b7b220a"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/salman.sha08"> <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
-<a href="mailto:salmanwiharja8@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
-<a href="mailto:salmanwiharja8@outlook.com"> <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white" /></a><br>
-<a href="https://visitor-badge.laobi.icu/badge?page_id=Salmansha08"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Salmansha08" /></a></p>
-
+### Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=Salmansha08)
 ---
 
 <p align="left">
@@ -34,4 +34,4 @@ Saya Ketua Dewan Eksekutif Pertama di [Hima Tekkom UPI Kampus Cibiru](https://ww
 
 ---
 
-Thanks to [AnggaR96s](https://github.com/AnggaR96s)
+Thanks to [AnggaR96s](https://github.com/AnggaR96s) and [strongpapazola](https://github.com/strongpapazola) for inspiration template
