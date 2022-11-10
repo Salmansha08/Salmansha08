@@ -26,7 +26,7 @@ Saya Ketua Dewan Eksekutif Pertama di [Hima Tekkom UPI Kampus Cibiru](https://ww
 ---
 
 **Trophy 🏆:**<br>
-<p align="center">
+<p align="Left">
   <a href="https://github.com/Salmansha08">
     <img width="75%" alt="Salman's Trophy" src="https://github-profile-trophy.vercel.app/?username=Salmansha08&theme=nord&no-bg=true&margin-h=10&column=4&rank=SSS,SS,S,AAA,AA,A,B,SECRET"/>
   </a>
