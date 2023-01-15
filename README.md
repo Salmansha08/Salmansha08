@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+There!;I'am+Salman+from+Indonesia+👋)](https://git.io/typing-svg)
 
-Saya **Mahasiswa Semester 5 Teknik Komputer** di [Universitas Pendidikan Indonesia Kampus Cibiru](http://tekom.kd-cibiru.upi.edu).
-
-Saya Ketua Dewan Eksekutif Pertama di [Hima Tekkom UPI Kampus Cibiru](https://www.instagram.com/hima.tekkom).
+I am **Student of Semester 6 Computer Engineering** at [Teknik Komputer, Universitas Pendidikan Indonesia Kampus Cibiru](http://tekom.kd-cibiru.upi.edu).
+I am the Head of the First Dewan Eksekutif at [Hima Tekkom UPI Kampus Cibiru](https://www.instagram.com/hima.tekkom).
 
 ---
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Salmansha08)
