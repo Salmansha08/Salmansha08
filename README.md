@@ -4,33 +4,23 @@ I am **Student of Semester 6 Computer Engineering** at [Teknik Komputer, Univers
 I am the Head of the First Dewan Eksekutif at [Hima Tekkom UPI Kampus Cibiru](https://www.instagram.com/hima.tekkom).
 
 ---
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Salmansha08)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/salman-wiharja-a0b7b220a)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/salman.sha08)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:salmanwiharja8@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/Salmansha08)
-[![Outlook Badge](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:salmanwiharja8@outlook.com)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://google.com)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Salmansha08)
+[![GitLb Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/salmanwiharja8)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salman-wiharja-a0b7b220a)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/salmanwiharja/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salmanwiharja8@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Salmansha08)
+[![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:salmanwiharja8@outlook.com)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/salmanwiharja08/)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCkFbeOpD0BUrfqHefRiq7hA)
+
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=Salmansha08)
 ---
-
-<p align="left">
-<a href="https://github.com/Salmansha08">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Salmansha08&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Salmansha08&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+![Salman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salmansha08&show_icons=true&theme=radical)
+![Salman's GitHub Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Salmansha08&show_icons=true&theme=radical)
 
 ---
 
-**Trophy 🏆:**<br>
-<p align="Left">
-  <a href="https://github.com/Salmansha08">
-    <img width="75%" alt="Salman's Trophy" src="https://github-profile-trophy.vercel.app/?username=Salmansha08&theme=nord&no-bg=true&margin-h=10&column=4&rank=SSS,SS,S,AAA,AA,A,B,SECRET"/>
-  </a>
-</p>
-
----
-
-Thanks to [AnggaR96s](https://github.com/AnggaR96s) and [strongpapazola](https://github.com/strongpapazola) for inspiration template
+**Trophy 🏆:**
+![Salman's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Salmansha08&show_icons=true&theme=radical)
