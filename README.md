@@ -72,6 +72,3 @@ Social Media:
 
 ## 🏆 GitHub Trophies
 ![Salman's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Salmansha08&show_icons=true&theme=radical)
-
-
-===========================
