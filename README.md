@@ -12,7 +12,7 @@ Program Code:
 
 Web:
 
-[![WebFramework](https://skillicons.dev/icons?i=nextjs,vite,react,nodejs,express,nestjs,vue,flask,laravel,ci)](https://skillicons.dev)
+[![WebFramework](https://skillicons.dev/icons?i=nextjs,vite,react,nodejs,express,nestjs,vue,flask,laravel)](https://skillicons.dev)
 [![CSSFramework](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://skillicons.dev)
 [![DB](https://skillicons.dev/icons?i=prisma,mysql,sqlite,postgres,mongodb,firebase)](https://skillicons.dev)
 [![Deploying](https://skillicons.dev/icons?i=git,docker,vercel,kubernetes,gcp)](https://skillicons.dev)
