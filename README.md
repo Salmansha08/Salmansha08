@@ -8,18 +8,18 @@ I am the Head of the First Dewan Eksekutif at [Hima Tekkom UPI Kampus Cibiru](ht
 
 Program Code:
 
-[![ProgramCode](https://skillicons.dev/icons?i=ts,js,html,css,py,cpp,c,php,go,java)]
+![ProgramCode](https://skillicons.dev/icons?i=ts,js,html,css,py,cpp,c,php,go,java)
 
 Web:
 
-[![WebFramework](https://skillicons.dev/icons?i=nextjs,vite,react,nodejs,express,nestjs,vue,flask,laravel)]
-[![CSSFramework](https://skillicons.dev/icons?i=tailwind,bootstrap)]
-[![DB](https://skillicons.dev/icons?i=prisma,mysql,sqlite,postgres,mongodb,firebase)]
-[![Deploying](https://skillicons.dev/icons?i=git,docker,vercel,kubernetes,gcp)]
+![WebFramework](https://skillicons.dev/icons?i=nextjs,vite,react,nodejs,express,nestjs,vue,flask,laravel)
+![CSSFramework](https://skillicons.dev/icons?i=tailwind,bootstrap)
+![DB](https://skillicons.dev/icons?i=prisma,mysql,sqlite,postgres,mongodb,firebase)
+![Deploying](https://skillicons.dev/icons?i=git,docker,vercel,kubernetes,gcp)
 
 Machine Learning:
 
-[![ML](https://skillicons.dev/icons?i=sklearn,pytorch,torch )]
+![ML](https://skillicons.dev/icons?i=sklearn,pytorch,torch )
 
 Other:
 
