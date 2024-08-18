@@ -8,18 +8,18 @@ I am the Head of the First Dewan Eksekutif at [Hima Tekkom UPI Kampus Cibiru](ht
 
 Program Code:
 
-[![ProgramCode](https://skillicons.dev/icons?i=ts,js,html,css,py,cpp,c,php,go,java)](https://skillicons.dev)
+[![ProgramCode](https://skillicons.dev/icons?i=ts,js,html,css,py,cpp,c,php,go,java)]
 
 Web:
 
-[![WebFramework](https://skillicons.dev/icons?i=nextjs,vite,react,nodejs,express,nestjs,vue,flask,laravel)](https://skillicons.dev)
-[![CSSFramework](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://skillicons.dev)
-[![DB](https://skillicons.dev/icons?i=prisma,mysql,sqlite,postgres,mongodb,firebase)](https://skillicons.dev)
-[![Deploying](https://skillicons.dev/icons?i=git,docker,vercel,kubernetes,gcp)](https://skillicons.dev)
+[![WebFramework](https://skillicons.dev/icons?i=nextjs,vite,react,nodejs,express,nestjs,vue,flask,laravel)]
+[![CSSFramework](https://skillicons.dev/icons?i=tailwind,bootstrap)]
+[![DB](https://skillicons.dev/icons?i=prisma,mysql,sqlite,postgres,mongodb,firebase)]
+[![Deploying](https://skillicons.dev/icons?i=git,docker,vercel,kubernetes,gcp)]
 
 Machine Learning:
 
-[![ML](https://skillicons.dev/icons?i=sklearn,pytorch,torch )](https://skillicons.dev)
+[![ML](https://skillicons.dev/icons?i=sklearn,pytorch,torch )]
 
 Other:
 
