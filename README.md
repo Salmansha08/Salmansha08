@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+There!;I'am+Salman+from+Indonesia+👋)](https://git.io/typing-svg)
 
-I am **Fresh Graduate Computer Engineering** at [Teknik Komputer, Universitas Pendidikan Indonesia Kampus Cibiru](http://tekom.kd-cibiru.upi.edu) GPA (3.8/4.0).
-I am the Head of the First Dewan Eksekutif at [Hima Tekkom UPI Kampus Cibiru](https://www.instagram.com/hima.tekkom).
+I am **Fresh Graduate Computer Engineering** at [Teknik Komputer, Universitas Pendidikan Indonesia Kampus Cibiru]([http://tekom.kd-cibiru.upi.edu](https://tekkom.upi.edu/2021/04/pelantikan-pengurus-pertama-hima-tekkom/)) GPA (3.8/4.0).
+I am the Head of the First Dewan Eksekutif at [Hima Tekkom UPI Kampus Cibiru]([https://www.instagram.com/hima.tekkom](https://www.instagram.com/p/CMMeM50gfet/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)).
 
 ---
 # 💻 Tech Stack:
