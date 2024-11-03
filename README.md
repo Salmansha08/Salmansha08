@@ -12,9 +12,9 @@ Program Code:
 
 Web:
 
-![WebFramework](https://skillicons.dev/icons?i=nextjs,vite,react,nodejs,express,nestjs,vue,flask,laravel)
+![WebFramework](https://skillicons.dev/icons?i=nextjs,nestjs,vite,react,nodejs,express,vue,flask,laravel)
 ![CSSFramework](https://skillicons.dev/icons?i=tailwind,bootstrap)
-![DB](https://skillicons.dev/icons?i=prisma,mysql,sqlite,postgres,mongodb,firebase)
+![DB](https://skillicons.dev/icons?i=prisma,postgres,mongodb,mysql,sqlite,firebase)
 ![Deploying](https://skillicons.dev/icons?i=git,docker,vercel,kubernetes,gcp)
 
 Machine Learning:
