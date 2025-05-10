@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+There!;I'am+Salman+from+Indonesia+👋)](https://git.io/typing-svg)
 
-I am **Fresh Graduate Computer Engineering** at [Teknik Komputer, Universitas Pendidikan Indonesia Kampus Cibiru](https://tekkom.upi.edu/2021/04/pelantikan-pengurus-pertama-hima-tekkom/) GPA 3.8/4.0.
+I am **Graduate Computer Engineering** at [Teknik Komputer, Universitas Pendidikan Indonesia Kampus Cibiru](https://tekkom.upi.edu/2021/04/pelantikan-pengurus-pertama-hima-tekkom/) GPA 3.8/4.0.
 I am the Head of the First Dewan Eksekutif at [Hima Tekkom UPI Kampus Cibiru](https://www.instagram.com/p/CMMeM50gfet/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==).
 
 ---
@@ -12,10 +12,10 @@ Program Code:
 
 Web:
 
-![WebFramework](https://skillicons.dev/icons?i=nextjs,nestjs,vite,react,nodejs,express,vue,flask,laravel)
+![WebFramework](https://skillicons.dev/icons?i=nestjs,nextjs,vite,react,nodejs,express,nuxtjs,vue,flask,laravel)
 ![CSSFramework](https://skillicons.dev/icons?i=tailwind,bootstrap)
-![DB](https://skillicons.dev/icons?i=prisma,postgres,mongodb,mysql,sqlite,firebase)
-![Deploying](https://skillicons.dev/icons?i=git,docker,vercel,kubernetes,gcp)
+![DB](https://skillicons.dev/icons?i=prisma,postgres,mysql,sqlite,mongodb,firebase)
+![Deploying](https://skillicons.dev/icons?i=git,docker,vercel,gcp,mongodb)
 
 Machine Learning:
 
@@ -31,7 +31,7 @@ Other:
 Social Media:
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Salmansha08)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salman-wiharja-a0b7b220a)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salman-wiharja)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salmanwiharja8@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Salmansha08)
 
