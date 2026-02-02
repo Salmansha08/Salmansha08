@@ -19,7 +19,7 @@ Web:
 
 Machine Learning:
 
-![ML](https://skillicons.dev/icons?i=sklearn,pytorch,torch,opencv,tensorflowsss)
+![ML](https://skillicons.dev/icons?i=sklearn,pytorch,torch,opencv,tensorflow)
 
 Other:
 
