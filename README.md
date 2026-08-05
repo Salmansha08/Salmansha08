@@ -8,18 +8,21 @@ I am the Head of the First Dewan Eksekutif at [Hima Tekkom UPI Kampus Cibiru](ht
 
 Program Code:
 
-![ProgramCode](https://skillicons.dev/icons?i=ts,js,html,css,py,cpp,c,php,go,java)
+![ProgramCode](https://skillicons.dev/icons?i=ts,js,html,htmx,css,py,rust,php,cpp,c,go,java,md)
 
 Web:
 
-![WebFramework](https://skillicons.dev/icons?i=nextjs,nestjs,react,bun,vite,nodejs,express,nuxtjs,vue,fastapi,flask,laravel)
+![Fullstack](https://skillicons.dev/icons?i=nextjs,laravel,nuxtjs)
+![Frontend](https://skillicons.dev/icons?i=vite,react,vue,pinia)
 ![CSSFramework](https://skillicons.dev/icons?i=tailwind,bootstrap)
-![DB](https://skillicons.dev/icons?i=prisma,typeorm,postgres,mysql,sqlite,mongodb,firebase)
-![Deploying](https://skillicons.dev/icons?i=git,docker,vercel,gcp,mongodb)
+![Backend](https://skillicons.dev/icons?i=nestjs,elysia,express,fastapi,flask)
+![DB](https://skillicons.dev/icons?i=prisma,postgres,mysql,sqlite,mongodb,firebase)
+![Tools](https://skillicons.dev/icons?i=bun,postman,vitest,jest,rabbitmq,git,github,gitlab,githubactions,arduino)
+![Deploying](https://skillicons.dev/icons?i=git,github,gitlab,docker,vercel,gcp,jenkins,nginx,cloudflare,bash)
 
 Machine Learning:
 
-![ML](https://skillicons.dev/icons?i=sklearn,pytorch,torch,opencv,tensorflow)
+![ML](https://skillicons.dev/icons?i=sklearn,pytorch,opencv,tensorflow)
 
 Other:
 
@@ -37,16 +40,12 @@ Social Media:
 
 
 ### Glad to see you here! &nbsp; 
-![](https://visitor-badge.laobi.icu/badge?page_id=Salmansha08)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Salmansha08.visitor-badge&left_text=visitors&left_color=%23595959&right_color=%231283c3&format=true&logo=github)
 ---
 
-## 📊 GitHub Stats:
-
-![Salman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salmansha08&show_icons=true&theme=radical)<br/>
-![Salman's GitHub stats 2](https://github-readme-streak-stats.herokuapp.com/?user=salmansha08&theme=dark&hide_border=false)<br/>
-![Salman's GitHub Top](https://github-readme-stats.vercel.app/api/top-langs/?username=salmansha08&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Salmansha08&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Salmansha08&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Salmansha08&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-
-## 🏆 GitHub Trophies
-![Salman's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Salmansha08&show_icons=true&theme=radical)
